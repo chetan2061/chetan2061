@@ -1,18 +1,15 @@
-## Hi there 👋
 <h1 align="center">Hey there! 👋 I'm Chetan Singh</h1>
-<h3 align="center">🚀 Cybersecurity | 💻 Web & Scripting | 🎮 Game Developer</h3>
+<h3 align="center">🚀 Cybersecurity Enthusiast | 💻 Web & Scripting Developer</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 📍 From **Mahendranagar, Kanchanpur** → Currently in **Kathmandu**
-- 🎓 2nd Year BSc (Hons) Computing @ Herald College Kathmandu (University of Wolverhampton)
-- 💼 Open to internships in **Cybersecurity**, **Web**, or **Automation**
-- 🧠 Currently learning **Wireshark**, **ethical hacking**, and **advanced Linux scripting**
-- 🛠️ Love building secure web tools and CLI scripts in Python
-- 🎮 Created a Unity game: **Ninja Parkour**
-- 🔒 Ask me about **Kali Linux**, **Nmap**, **SSH tunneling**
+- 📍 From **Mahendranagar** → Currently in **Kathmandu**
+- 🎓 2nd Year BSc (Hons) Computing @ Herald College Kathmandu
+- 🔐 Exploring ethical hacking, automation, and secure development
+- 🛠️ Passionate about building useful CLI tools and secure web apps
+- 💬 Ask me about **Kali Linux**, **Nmap**, or **Bash scripting**
 
 ---
 
@@ -25,7 +22,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
@@ -45,31 +41,16 @@
 
 ---
 
-### 🧠 Cool Projects
+### 🚀 Featured Projects
 - 🧰 [Cybersecurity Portfolio](https://github.com/chetan2061/cybersecurity-portfolio)
 - 🌦️ [Weather App (OpenWeatherMap)](https://github.com/chetan2061/weather-app-php)
-- 🎮 [Ninja Parkour - Unity Game](https://github.com/chetan2061/ninja-parkour)
 - 🎲 [Tic Tac Toe CLI (Python)](https://github.com/chetan2061/tic-tac-toe-python)
 - 🔐 [Scissor Cipher Encryption](https://github.com/chetan2061/scissor-cipher)
+- 🐍 [Snake Game (JavaScript)](https://github.com/chetan2061/snake-game)
 
 ---
 
-### 🗨️ Random Dev Quote
+### ✍️ Random Dev Quote
 ```text
 “Security is not a product, but a process.”  
 — Bruce Schneier
-
-<!--
-**chetan2061/chetan2061** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
