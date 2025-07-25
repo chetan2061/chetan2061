@@ -1,56 +1,97 @@
-<h1 align="center">Hey there! 👋 I'm Chetan Singh</h1>
-<h3 align="center">🚀 Cybersecurity Enthusiast | 💻 Web & Scripting Developer</h3>
 
----
-
-### 👨‍💻 About Me
-
-- 📍 From **Mahendranagar** → Currently in **Kathmandu**
-- 🎓 2nd Year BSc (Hons) Computing @ Herald College Kathmandu
-- 🔐 Exploring ethical hacking, automation, and secure development
-- 🛠️ Passionate about building useful CLI tools and secure web apps
-- 💬 Ask me about **Kali Linux**, **Nmap**, or **Bash scripting**
-
----
-
-### 🔧 Skills & Tools
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=booting+up+profile...;access+granted+%5BOK%5D;welcome+back%2C+Chetan+%3A)" alt="Typing SVG" />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Nmap-000000?style=flat-square&logo=nmap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="200" />
+  <h2><span style="color:#00FF00;">~$ sudo ./start_hack.sh</span></h2>
 </div>
 
 ---
 
-### 📈 GitHub Stats
+```bash
+> whoami
+chetan_singh
+
+> location
+Kathmandu, Nepal
+
+> mission
+// Ethical hacking, automation, secure web development
+
+> tools
+[ Kali Linux, Nmap, Wireshark, Bash, Python, PHP, Git, Unity ]
+```
+
+---
+
+### 🧠 Hacker Projects
+
+```shell
+$ ls ~/projects
+📁 scissor-cipher-tool
+📁 python-tictactoe
+📁 weather-app-php
+📁 cybersecurity-portfolio
+📁 snake-game (JS)
+```
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan2061&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api?username=chetan2061&show_icons=true&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan2061&layout=compact&theme=tokyonight" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,python,php,js,html,css,nmap,git,github,unity" />
 </p>
 
 ---
 
-### 🚀 Featured Projects
-- 🧰 [Cybersecurity Portfolio](https://github.com/chetan2061/cybersecurity-portfolio)
-- 🌦️ [Weather App (OpenWeatherMap)](https://github.com/chetan2061/weather-app-php)
-- 🎲 [Tic Tac Toe CLI (Python)](https://github.com/chetan2061/tic-tac-toe-python)
-- 🔐 [Scissor Cipher Encryption](https://github.com/chetan2061/scissor-cipher)
-- 🐍 [Snake Game (JavaScript)](https://github.com/chetan2061/snake-game)
+### 📈 Hacker Stats: Mission Logs
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chetan2061&show_icons=true&theme=radical&hide_border=true&icon_color=00FF00&title_color=00FF00" width="45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chetan2061&theme=matrix&hide_border=true&ring=00ff00&fire=00ff00&currStreakLabel=00ff00" width="45%">
+</div>
 
 ---
 
-### ✍️ Random Dev Quote
-```text
-“Security is not a product, but a process.”  
-— Bruce Schneier
+### 🐍 Matrix Snake Tracker
+
+```sh
+# github activity snake v3
+```
+
+![snake gif](https://github.com/chetan2061/chetan2061/blob/output/github-contribution-grid-snake.svg)
+
+---
+
+### 💀 Hacker Tools & Status
+
+```yaml
+- Kali Linux ✔️
+- Nmap ✔️
+- Python Scripting ✔️
+- Shell Scripting ✔️
+- API Abuse 🔄
+- Root Access ⛔
+- Zero-Day Exploit ⚠️ (pending...)
+```
+
+---
+
+### ⚠️ Dev Quote of the Underground
+
+```diff
+- "The quieter you become, the more you are able to hear." — Kali NetHunter
+```
+
+---
+
+### 🧠 Connect in the Shadows
+
+<p align="center">
+  <a href="mailto:chetansingh206111@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23000000.svg?&style=for-the-badge&logo=gmail&logoColor=green"></a>
+  <a href="https://linkedin.com/in/chetan-singh-970084353"><img src="https://img.shields.io/badge/LinkedIn-%23000000.svg?&style=for-the-badge&logo=linkedin&logoColor=green"></a>
+  <a href="https://github.com/chetan2061"><img src="https://img.shields.io/badge/GitHub-%23000000.svg?&style=for-the-badge&logo=github&logoColor=green"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Th3Wall/assets/main/Matrix-Terminal.gif" width="80%">
+</p>
