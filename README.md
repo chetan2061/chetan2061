@@ -90,8 +90,8 @@ chetan@matrix:~$ cat learning_queue.txt
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=chetan2061&repo=cybersecurity-portfolio&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
 </a>
 
-<a href="https://github.com/chetan2061">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chetan2061&repo=weather-app-php&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41" />
+<a href="https://chetan2061.github.io/portfolio/">
+  <img src="https://chetan2061.github.io/portfolio/" />
 </a>
 
 </div>
