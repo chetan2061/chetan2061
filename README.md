@@ -22,8 +22,8 @@
 ╰─➤ cat about.me
 
 Frontend Developer | Ethical Hacker | Coffee → Code Converter
-Currently: Learning advanced web security & building cool stuff
-Mission: Making the web safer, one line of code at a time ⚡
+Currently: Learning web security & building cool stuff
+                             ⚡
 ```
 
 </div>
