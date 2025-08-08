@@ -23,7 +23,7 @@
 
 Frontend Developer | Ethical Hacker | Coffee → Code Converter
 Currently: Learning web security & building cool stuff
-                             ⚡
+                  ⚡
 ```
 
 </div>
