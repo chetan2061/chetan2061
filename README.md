@@ -78,7 +78,7 @@ Currently: Learning web security & building cool stuff
 
 | 🚀 Project | 💻 Tech | 🔗 Link | 📊 Status |
 |------------|---------|---------|-----------|
-| **🌐 Portfolio** | HTML/CSS/JS | [Live Demo](https://chetansingh.com.np) | ✅ Active |
+| **🌐 Portfolio** | HTML/CSS/JS | [Live Demo](https://chetan2061.github.io/portfolio/) | ✅ Active |
 | **🌤️ Weather App** | PHP/API | [View Code](https://github.com/chetan2061) | ✅ Complete |
 | **🥷 Ninja Game** | Unity/C# | [Play Now](https://github.com/chetan2061) | ✅ Released |
 | **🐍 Python Engine** | Python | [Explore](https://github.com/chetan2061) | ✅ Complete |
