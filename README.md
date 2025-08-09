@@ -56,6 +56,13 @@ Currently: Learning web security & building cool stuff
 
 ## 📊 GITHUB STATS
 
+
+
+<div align="center">
+  
+  [![GitHub Streak](https://streak-stats.demolab.com?user=chetan2061&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=ffffff&currStreakNum=00FF41&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
+  
+</div>
 <div align="center">
   
 
@@ -64,11 +71,7 @@ Currently: Learning web security & building cool stuff
   
 </div>
 
-<div align="center">
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=chetan2061&theme=dark&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideNums=ffffff&currStreakNum=00FF41&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://git.io/streak-stats)
-  
-</div>
+
 
 ---
 
