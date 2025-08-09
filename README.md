@@ -58,7 +58,7 @@ Currently: Learning web security & building cool stuff
 
 <div align="center">
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=chetan2061&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true&include_all_commits=true"/>
+
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chetan2061&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=8"/>
   
