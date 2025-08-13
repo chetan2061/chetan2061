@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 ABOUT.EXE
+## 🚀 ABOUT
 
 <div align="center">
 
