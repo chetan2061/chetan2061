@@ -109,7 +109,7 @@ Currently: Learning web security & building cool stuff
   
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> 
   Ready for internships, collaborations, and exciting projects!
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30">
+  
   
   ---
   
