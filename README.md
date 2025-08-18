@@ -22,7 +22,7 @@
 ╰─➤ cat about.me
 
 Frontend Developer | Ethical Hacker | Coffee → Code Converter
-Currently: Learning web security & building cool stuff
+Currently: Learning security & building cool stuff
                   ⚡
 ```
 
